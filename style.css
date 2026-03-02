@@ -1,0 +1,33 @@
+.flashcard {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+}
+
+.flashcard h2 {
+  font-size: 24px;
+  margin: 0 0 10px;
+}
+
+.flashcard p {
+  font-size: 18px;
+  color: #555;
+}
+
+.card-button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.card-button:hover {
+  background-color: #45a049;
+}
